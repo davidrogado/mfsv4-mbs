@@ -1,0 +1,8 @@
+11:21:34.866 Initializing EJB Workflows ...
+11:21:34.867 GET ~ ^(sample)/(test)/?$ ~ ejb:/sample-workflow-0.0.1-SNAPSHOT/SampleWorkflow!com.psi.mfsv4.mbs.common.interfaces.Workflow
+11:21:34.868 POST ~ ^(sample)/(test)/?$ ~ ejb:/sample-workflow-0.0.1-SNAPSHOT/SampleWorkflow!com.psi.mfsv4.mbs.common.interfaces.Workflow
+11:21:34.868 POST ~ ^(sample1)/(test)/?$ ~ ejb:/sample-workflow-0.0.1-SNAPSHOT/SampleWorkflow!com.psi.mfsv4.mbs.common.interfaces.Workflow
+11:22:36.683 Initializing EJB Workflows ...
+11:22:36.684 GET ~ ^(sample)/(test)/?$ ~ ejb:/sample-workflow-0.0.1-SNAPSHOT/SampleWorkflow!com.psi.mfsv4.mbs.common.interfaces.Workflow
+11:22:36.684 POST ~ ^(sample)/(test)/?$ ~ ejb:/sample-workflow-0.0.1-SNAPSHOT/SampleWorkflow!com.psi.mfsv4.mbs.common.interfaces.Workflow
+11:22:36.685 POST ~ ^(sample1)/(test)/?$ ~ ejb:/sample-workflow-0.0.1-SNAPSHOT/SampleWorkflow!com.psi.mfsv4.mbs.common.interfaces.Workflow
